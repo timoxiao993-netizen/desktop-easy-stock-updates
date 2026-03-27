@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <!-- 与 Release 标签、附件文件名一致；发新版时提高 version 并更新 url -->
+  <version>1.3.0.0</version>
+  <url>https://github.com/timoxiao993-netizen/desktop-easy-stock-updates/releases/download/v1.3.0/EasyStock-v1.3.0.exe</url>
+  <changelogText><![CDATA[v1.3.0
+· 在线更新通道：公开仓库 desktop-easy-stock-updates（源码仍在私有主仓库）
+· 发新版：在本仓库发 Release 并上传 exe，再提交本文件
+]]></changelogText>
+  <mandatory>false</mandatory>
+</item>

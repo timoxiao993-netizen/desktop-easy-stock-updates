@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <!-- 与 GitHub Release 一致：version 为程序版本号，url 为对应 Release 中 exe 的直链 -->
-  <version>1.4.1.0</version>
-  <url>https://github.com/timoxiao993-netizen/desktop-easy-stock-updates/releases/download/v1.4.1/EasyStock-v1.4.1.exe</url>
-  <changelogText><![CDATA[v1.4.1
-- 在线更新：内置默认 AppCast；启动静默检查默认值修正；检查中状态与有新版本时底栏红点提示。
-- 安装：请先退出正在运行的程序，再运行新 exe。]]></changelogText>
+  <version>1.4.2.0</version>
+  <url>https://github.com/timoxiao993-netizen/desktop-easy-stock-updates/releases/download/v1.4.2/EasyStock-v1.4.2.exe</url>
+  <changelogText><![CDATA[v1.4.2
+- 自定义下载窗口：进度、MB/s、可取消；可选 checksum 校验。
+- 启动始终探测新版本并显示红点；CheckOnStartup 仅控制是否弹窗；默认延迟 8 秒。
+]]></changelogText>
   <mandatory>false</mandatory>
 </item>

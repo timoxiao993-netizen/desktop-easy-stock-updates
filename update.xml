@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <!-- 与 GitHub Release 一致：version 为程序版本号，url 为对应 Release 中 exe 的直链 -->
-  <version>1.4.0.0</version>
-  <url>https://github.com/timoxiao993-netizen/desktop-easy-stock-updates/releases/download/v1.4.0/EasyStock-v1.4.0.exe</url>
-  <changelogText><![CDATA[v1.4.0
-- 历史记录：物料/备注关键字筛选；结束日期含当日全天；筛选条件下汇总与本页数量合计；导出本页与导出全部；表格规格/单位列与当前页排序；快捷本月/本季/本年；重置筛选；库存右键「查看出入库流水」。
+  <version>1.4.1.0</version>
+  <url>https://github.com/timoxiao993-netizen/desktop-easy-stock-updates/releases/download/v1.4.1/EasyStock-v1.4.1.exe</url>
+  <changelogText><![CDATA[v1.4.1
+- 在线更新：内置默认 AppCast；启动静默检查默认值修正；检查中状态与有新版本时底栏红点提示。
 - 安装：请先退出正在运行的程序，再运行新 exe。]]></changelogText>
   <mandatory>false</mandatory>
 </item>

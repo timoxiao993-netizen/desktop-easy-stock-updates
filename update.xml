@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.4.2.0</version>
-  <url>https://github.com/timoxiao993-netizen/desktop-easy-stock-updates/releases/download/v1.4.2/EasyStock-v1.4.2.exe</url>
-  <changelogText><![CDATA[v1.4.2
-- 自定义下载窗口：进度、MB/s、可取消；可选 checksum 校验。
-- 启动始终探测新版本并显示红点；CheckOnStartup 仅控制是否弹窗；默认延迟 8 秒。
+  <version>1.4.3.0</version>
+  <url>https://github.com/timoxiao993-netizen/desktop-easy-stock-updates/releases/download/v1.4.3/EasyStock-v1.4.3.exe</url>
+  <changelogText><![CDATA[v1.4.3
+- 可编辑下拉：选中后列表正确收起；筛选优化便于改选其它项
+- 全局可编辑 ComboBox 样式统一（含编辑物料分类/来源）
+- 入库/出库/出库管理：数量快捷 −1/+1/+10；入库单价带出说明；提交防重复
+- 登录页显示软件版本号
 ]]></changelogText>
   <mandatory>false</mandatory>
+  <checksum algorithm="SHA256">436b7f2c6f98b8e70bce952cab6a8d8138932e0898d10e091b5919f725442510</checksum>
 </item>
